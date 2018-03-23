@@ -1,0 +1,3 @@
+2018-03-21 14:18:45 [INFO ] [BaseClass] - [openBrowser] Opening chrome Browser
+2018-03-21 14:19:32 [INFO ] [BaseClass] - [openBrowser] Opening Url https://app.ait.moolya.global
+2018-03-21 14:19:34 [INFO ] [BaseClass] - [tearDown] Zipping ScreenShots.zip completed successfully
